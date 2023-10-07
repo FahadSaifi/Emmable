@@ -1,0 +1,3 @@
+--primary-color: #5A4098;
+--secondary-color: #FF7050;
+--cards-color: #F9F9F9;
